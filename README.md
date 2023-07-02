@@ -19,9 +19,9 @@ ________________________________________________________________________________
 ## License: MIT
 _______________________________________________________________________________________________________________________________
 ## Links:
-Screencastify URL : https://drive.google.com/file/d/1esLIjkuDHm1FJhCAqGgx6RQRfhGdBhC0/view
+Screencastify URL : https://drive.google.com/file/d/1ucWswpMnJewdCDCCBZG8WreKBgh61cs-/view
 
-Repository : https://github.com/VinceR66/sqlTracker12 
+Repository : https://github.com/VinceR66/ORM13 
 _______________________________________________________________________________________________________________________________
 ## Questions:
 Please contact me at info@me.com with additional questions.
